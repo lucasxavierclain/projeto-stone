@@ -1,9 +1,9 @@
-#Leitura de dados das planilhas!  
+# Leitura de dados das planilhas!  
   
-###Comandos usados para instalar e rodar o programa:
-*npm init -y
-*npm i xlsx
-*node resolucao.js
+### Comandos usados para instalar e rodar o programa:  
+* npm init -y  
+* npm i xlsx  
+* node resolucao.js  
 
 
 Para fazer esse projeto eu utilizei a dependência *xlsx* para puxar os dados da planilha e estrair as tabelas
